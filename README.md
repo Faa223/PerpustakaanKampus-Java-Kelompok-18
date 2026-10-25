@@ -10,7 +10,7 @@ Program sudah terisi 8 buku contoh dan data statistik contoh, jadi semua fitur b
 - **Angkatan:** 2025
 - **Kelompok:** 18
   
-## Anggota Kelompok 8 (UBAH)
+## Anggota Kelompok 18 
 1. *Elena Dementieva* - 2509116008 - Kelas A
 2. *Vidya Khansa Mizan* - 2509116052 - Kelas B
 3. *Yahya Jailan* - 2509116085 - Kelas C
