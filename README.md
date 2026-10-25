@@ -15,3 +15,18 @@ Program sudah terisi 8 buku contoh dan data statistik contoh, jadi semua fitur b
 2. *Vidya Khansa Mizan* - 2509116052 - Kelas B
 3. *Yahya Jailan* - 2509116085 - Kelas C
 4. *Rifaa Zaiul Arifin* - 2509116092 - Kelas C.
+
+## Struktur Proyek
+
+```text
+perpustakaan-kampus/
+├── src/
+│   ├── main/
+│   │   └── PerpustakaanKampus.java   
+│   └── model/
+│       ├── Buku.java                 
+│       ├── Transaksi.java            
+│       └── Mahasiswa.java           
+├── .gitignore
+└── README.md
+```
