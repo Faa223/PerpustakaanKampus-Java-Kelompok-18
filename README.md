@@ -14,4 +14,4 @@ Program sudah terisi 8 buku contoh dan data statistik contoh, jadi semua fitur b
 1. *Elena Dementieva* - 2509116008 - Kelas A
 2. *Vidya Khansa Mizan* - 2509116052 - Kelas B
 3. *Yahya Jailan* - 2509116085 - Kelas C
-4. *Rifaa Zaiul Arifin* - 2509116092 - Kelas C
+4. *Rifaa Zaiul Arifin* - 2509116092 - Kelas C.
