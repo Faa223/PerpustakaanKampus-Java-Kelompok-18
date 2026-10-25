@@ -1,5 +1,7 @@
 # Sistem Manajemen Perpustakaan Kampus
-[Kasih Deskripsi Singkat]
+Petugas perpustakaan bisa menambah, mencari, dan menghapus buku, melihat di lantai/rak/posisi mana sebuah buku disimpan, lalu mencatat peminjaman dan pengembalian. Setiap peminjaman ikut tercatat di statistik mingguan per kategori dan di riwayat transaksi, sehingga transaksi terakhir bisa dilihat atau dibatalkan. Kalau buku yang diminta sedang dipinjam, mahasiswa bisa masuk antrean dan dilayani sesuai urutan datang.
+
+Program sudah terisi 8 buku contoh dan data statistik contoh, jadi semua fitur bisa langsung dicoba. Data disimpan di memori, jadi hilang saat program ditutup.
 
 ## Tugas Pemrograman Java
 - **Mata Kuliah:** Pemrograman Berorientasi Objek
